@@ -1,0 +1,5 @@
+# source files (not needed by the website)
+video.mp4
+/*.png
+sountrack.m4a
+.claude/
